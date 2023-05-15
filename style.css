@@ -15,18 +15,27 @@
     background: rgba(42, 98, 120, 0.734);
 }
 
+/* li{
+    width: 150px;
+    align-content: center;
+    display: inline-block;
+} */
+
 .sub-nav{
+    text-align: center;
     width: 600px;
+    height: px;
+    margin: 0 auto;
     background-color: skyblue;
     border:2px solid red;
     margin: 5px auto;
     border-radius: 10px;
 }
 
-li{
-    text-align: center;
-    list-style-position: outside;
-    /* margin-inline: auto; */
+ul{
+    width: 150px;
+    align-content: center;
+    display: inline-block;
 }
 
 .flex-div{
